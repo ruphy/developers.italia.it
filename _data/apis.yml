@@ -62,3 +62,12 @@
   tags: []
   language: [it]
   slug: aree-protette-lombardia
+- openapi: https://raw.githubusercontent.com/teamdigitale/api-openapi-samples/master/external-apis/anpr-dashboard.yaml
+  title: ANPR Dashboard API
+  abstract: API per verificare lo stato della migrazione dei comuni italiani in ANPR
+  contact:
+    name: Team Digitale
+    logo: https://raw.githubusercontent.com/teamdigitale/api-openapi-samples/master/external-apis/img/api.daf.teamdigitale.it.png
+  tags: []
+  language: [it]
+  slug: anpr-dashboard
